@@ -1,3 +1,6 @@
+**This fork was created in order to make this lib (apparently not maintained anymore?) compatible with RN 0.56 and the new required Android target SDK version (26+).**
+
+
 # Config variables for React Native apps
 
 Module to expose config variables to your javascript code in React Native, supporting both iOS and Android.
